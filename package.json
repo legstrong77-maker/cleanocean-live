@@ -1,0 +1,22 @@
+{
+  "name": "cleanocean-live",
+  "version": "1.0.0",
+  "private": false,
+  "description": "愛海小旅行海洋廢棄物 ICC 成果登記與後台管理網站",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "check": "node --check server.js && node --check public/app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "clean-ocean",
+    "icc",
+    "beach-cleanup",
+    "taiwan"
+  ],
+  "license": "UNLICENSED"
+}
