@@ -47,6 +47,8 @@ ADMIN_TOKEN=your-password
 
 GitHub 只負責保存原始碼。因為這個網站有 API 與 JSON 資料寫入功能，不能直接用 GitHub Pages 完整運作。
 
+本 repo 另外提供 `docs/` 靜態展示版，可用 GitHub Pages 預覽畫面與瀏覽器 localStorage 版操作；它不是多人共用資料庫。
+
 建議部署到可執行 Node.js 的平台：
 
 - Render

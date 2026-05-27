@@ -1,0 +1,154 @@
+[
+  {
+    "id": "seed-001",
+    "date": "2026-05-22",
+    "city": "宜蘭縣",
+    "location": "烏石港北堤沙灘",
+    "lat": 24.8688,
+    "lng": 121.8394,
+    "organization": "靜心高中",
+    "participants": 42,
+    "lengthM": 350,
+    "weightKg": 128.7,
+    "email": "teacher@example.org",
+    "status": "approved",
+    "notes": "學生分組完成 ICC 量表登記，現場塑膠瓶蓋與吸管數量偏高。",
+    "counts": {
+      "pet_bottles": 68,
+      "bottle_caps": 546,
+      "food_containers": 87,
+      "non_food_containers": 18,
+      "plastic_bags": 43,
+      "food_wrappers": 210,
+      "straws": 134,
+      "cups": 39,
+      "tableware": 56,
+      "cans": 24,
+      "cartons": 11,
+      "glass_bottles": 6,
+      "fishing_gear": 9,
+      "floats": 3,
+      "nets_ropes": 18,
+      "cigarettes": 260,
+      "toothbrushes": 4,
+      "syringes": 0,
+      "lighters": 8
+    },
+    "safety": {
+      "fishHooks": 2,
+      "metalItems": 15
+    },
+    "others": [
+      {
+        "name": "拖鞋",
+        "count": 12
+      },
+      {
+        "name": "寶特瓶標籤膜",
+        "count": 44
+      }
+    ],
+    "photo": "/assets/beach-card-1.jpg",
+    "createdAt": "2026-05-22T08:00:00.000Z"
+  },
+  {
+    "id": "seed-002",
+    "date": "2026-05-24",
+    "city": "台中市",
+    "location": "高美濕地周邊",
+    "lat": 24.3101,
+    "lng": 120.5496,
+    "organization": "環境友善種子",
+    "participants": 28,
+    "lengthM": 220,
+    "weightKg": 76.2,
+    "email": "seed@example.org",
+    "status": "pending",
+    "notes": "需要管理者確認照片與重量。",
+    "counts": {
+      "pet_bottles": 22,
+      "bottle_caps": 141,
+      "food_containers": 33,
+      "non_food_containers": 7,
+      "plastic_bags": 62,
+      "food_wrappers": 118,
+      "straws": 41,
+      "cups": 22,
+      "tableware": 19,
+      "cans": 31,
+      "cartons": 5,
+      "glass_bottles": 2,
+      "fishing_gear": 12,
+      "floats": 1,
+      "nets_ropes": 34,
+      "cigarettes": 77,
+      "toothbrushes": 1,
+      "syringes": 0,
+      "lighters": 4
+    },
+    "safety": {
+      "fishHooks": 5,
+      "metalItems": 8
+    },
+    "others": [
+      {
+        "name": "保麗龍碎片",
+        "count": 90
+      }
+    ],
+    "photo": "/assets/beach-card-2.jpg",
+    "createdAt": "2026-05-24T08:00:00.000Z"
+  },
+  {
+    "id": "seed-003",
+    "date": "2026-05-26",
+    "city": "澎湖縣",
+    "location": "隘門沙灘",
+    "lat": 23.5656,
+    "lng": 119.6389,
+    "organization": "桃園縣環教團",
+    "participants": 35,
+    "lengthM": 410,
+    "weightKg": 98.4,
+    "email": "ocean@example.org",
+    "status": "approved",
+    "notes": "漁網與繩子明顯集中於漂流物堆積區。",
+    "counts": {
+      "pet_bottles": 49,
+      "bottle_caps": 188,
+      "food_containers": 71,
+      "non_food_containers": 11,
+      "plastic_bags": 36,
+      "food_wrappers": 84,
+      "straws": 29,
+      "cups": 18,
+      "tableware": 24,
+      "cans": 16,
+      "cartons": 9,
+      "glass_bottles": 3,
+      "fishing_gear": 20,
+      "floats": 6,
+      "nets_ropes": 68,
+      "cigarettes": 93,
+      "toothbrushes": 3,
+      "syringes": 0,
+      "lighters": 7
+    },
+    "safety": {
+      "fishHooks": 4,
+      "metalItems": 11
+    },
+    "others": [
+      {
+        "name": "浮球碎片",
+        "count": 27
+      },
+      {
+        "name": "塑膠管",
+        "count": 8
+      }
+    ],
+    "photo": "/assets/beach-card-3.jpg",
+    "createdAt": "2026-05-26T08:00:00.000Z"
+  }
+]
